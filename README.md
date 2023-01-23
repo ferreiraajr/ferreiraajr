@@ -20,7 +20,7 @@
 ![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) &nbsp;
 <br>
 
-## Conhecimentos 👩🏻‍💻
+## Conhecimentos 📖
 ![FIGMA](https://img.shields.io/badge/Figma-FF6347?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
@@ -28,7 +28,7 @@
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) &nbsp;
 <br>
 
-## Ferramentas 👩🏻‍💻
+## Ferramentas ⚙️
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) &nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-4F4F4F?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
