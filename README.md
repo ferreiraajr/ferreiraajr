@@ -38,9 +38,9 @@
 
 ## Status ⭐
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=ferreiraajr&show_icons=true&theme=onedark" />
+  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=ferreiraajr&show_icons=true&theme=github_dark" />
 </a> &nbsp; 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraajr&layout=compact&theme=onedark"/>  
+  <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraajr&layout=compact&theme=github_dark"/>  
 </a>
 
