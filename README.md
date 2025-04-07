@@ -6,7 +6,7 @@
 <br>
 ## Sobre mim 🙍‍♂️
 
-💻 Trabalho como Fullstack Junior<br>
+💻 Desenvolvedor PHP Pleno<br>
 📚 Aprendendo mais sobre o universo javascript<br>
 🎶 Amante da música e viciado em instrumentos musicais <br>
 🎮 Uma jogatina entre um código e outro<br>
